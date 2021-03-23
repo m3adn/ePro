@@ -14,7 +14,8 @@ Pro Server Team - Build your server like a Pro
 ```
 Members: *@Rafael Abreu
          *@Daniel Andronic
+         *@Filipe Santos
          *@Afonso Mota
-         *@Person Needed
-         *@Person Needed
+         *@Unfilled
+         *@Unfilled
 ```
