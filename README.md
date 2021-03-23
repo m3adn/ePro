@@ -1,6 +1,8 @@
 # eServerPro :rocket:
 
-#### Pro Server Team - Build your server like a Pro
+Pro Server Team - Build your server like a Pro
+
+--------------------------
 
 ![ServerImage](/servban.jpg)
 
