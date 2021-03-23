@@ -10,3 +10,6 @@ How to run basic http local server.
 
 >For more options check: `http-server --help`
 
+To do:
+
+Find the best technology to implement an server connection for API
