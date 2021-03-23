@@ -1,6 +1,6 @@
-# eServerPro :rocket:
+# ePro :rocket:
 
-Pro Server Team - Build your server like a Pro
+Pro Team - Keep it running like a Pro
 
 --------------------------
 
