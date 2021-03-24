@@ -11,12 +11,12 @@ Pro Team - Keep it running like a Pro
 
 -------------------------
 
-```
+
 Members:
-- @Rafael Abreu
+- @Rafael Abreu 
 - @Daniel Andronic 
 - @Filipe Santos
 - @Afonso Mota
 - Unfilled
 - Unfilled
-```
+
